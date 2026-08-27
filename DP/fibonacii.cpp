@@ -17,8 +17,8 @@ int func(int n){
 int main(){
     memset(dp,-1,sizeof(dp));
     dp[0]=0;
-dp[1]=1;
-dp[2]=1;
+    dp[1]=1;
+    dp[2]=1;
     int n;
     cin>>n;
     func(n);
@@ -26,4 +26,6 @@ dp[2]=1;
     for(int i=0;i<n;i++){
         cout<<dp[i]<<endl;
     }
+    return 0;
+    
 }
