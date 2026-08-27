@@ -4,7 +4,7 @@ int main(){
     int n;
     cin>>n;
     int ara[n];
-    for(int i=0;i<n;i++)cin>>ara[i];
+    for(int i=0;i<n;i++)cin>>ara[i]; 
 
     vector<int> gg(n+1,0);
     gg[0]=0;

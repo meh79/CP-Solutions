@@ -8,7 +8,7 @@ int func(int n){
     
     if(n==0) return 0;
     if(n==1||n==2) return 1;
-    
+    if(dp[n]!=-1)return dp[n];
     return dp[n]=func(n-1)+func(n-2);
 
     
@@ -27,5 +27,5 @@ int main(){
         cout<<dp[i]<<endl;
     }
     return 0;
-    
+
 }
