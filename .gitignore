@@ -4,4 +4,9 @@
 *.out
 
 # Ignore VS Code specific folder
-.vscode/
+.vscode/input.txt
+output.txt
+*.exe
+input.txt
+output.txt
+jspwTest.cpp
