@@ -1,0 +1,10 @@
+Roll: 1 total result is= 100
+Roll: 2 total result is= 90
+Roll: 3 total result is= 89
+Roll: 4 total result is= 13
+Roll: 5 total result is= 12
+Roll: 6 total result is= 11
+Roll: 7 total result is= 90
+Roll: 8 total result is= 99
+Roll: 9 total result is= 129
+Roll: 10 total result is= 100
